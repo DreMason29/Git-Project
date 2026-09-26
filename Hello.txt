@@ -1,0 +1,10 @@
+
+
+
+
+
+git config --global user.name "Dre"
+git config --global user.email "dremason27@gmail.com"
+
+
+git commit -m "My first commit"
